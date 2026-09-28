@@ -1,0 +1,6 @@
+group,n,nbr_pre,nbr_post,dnbr_mean,dnbr_median,dnbr_sd
+outside_burn,169349,,,0.026,0.021,
+burned_all,4635,,,0.01,0.003,
+burned_forest,413,-0.001,-0.086,0.085,0.072,0.139
+burned_agri,4222,-0.091,-0.093,0.003,-0.001,0.112
+ring,16990,0.249,0.201,0.048,,0.14

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Data: large or not mine to redistribute (add the source link in the README instead)
+data/
+*.tif
+*.tiff
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.gpkg
+*.geojson
+
+# Credentials
+.env
+*service-account*.json
+credentials*.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Keep the small result tables and figures
+!results/*.csv
+!results/*.png
