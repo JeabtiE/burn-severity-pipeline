@@ -1,0 +1,2 @@
+primary_model,test_seasons,expected_seasons,wins,c1_wins_ge_7,mean_pr_diff,c2_mean_diff_ge_0.02,lift_primary,lift_B1_all,c3_lift_not_lower,result,is_primary_series
+M2,18,18,17,True,0.03094241637084152,True,2.3730474977515543,2.307222297858098,True,ML WINS,False

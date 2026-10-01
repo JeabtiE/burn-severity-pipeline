@@ -1,0 +1,2 @@
+model,ref,n_boot,n_blocks,ci_low,ci_high
+M2,B1_all,1000,134,0.026630373590530013,0.03574971401612238
